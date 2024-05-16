@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"title": "iPhone 13",
+		"description": "The latest iPhone with 5G technology and improved camera.",
+		"price": 999.99,
+		"thumbnail": [],
+		"code": "IPHN13",
+		"stock": 100,
+		"category": "Electronics",
+		"status": "true"
+	},
+	{
+		"id": 2,
+		"title": "Samsung Galaxy S21",
+		"description": "The Samsung Galaxy S21 features a 6.2-inch AMOLED screen and a triple-lens rear camera.",
+		"price": 799.99,
+		"thumbnail": [],
+		"code": "SGS21",
+		"stock": 50,
+		"category": "Electronics",
+		"status": "true"
+	},
+	{
+		"id": 3,
+		"title": "Macbook Pro",
+		"description": "The latest Macbook Pro features the powerful M1 chip and a 13-inch Retina display.",
+		"price": 1299.99,
+		"thumbnail": [],
+		"code": "MBP13",
+		"stock": 20,
+		"category": "Computers",
+		"status": "true"
+	},
+	{
+		"id": 4,
+		"title": "Nike Air Max 90",
+		"description": "The Nike Air Max 90 features a classic design and a comfortable fit.",
+		"price": 119.99,
+		"thumbnail": [],
+		"code": "AM90",
+		"stock": 75,
+		"category": "Shoes",
+		"status": "true"
+	},
+	{
+		"id": 5,
+		"title": "Canon EOS R6",
+		"description": "The Canon EOS R6 is a full-frame mirrorless camera with 20fps shooting and 4K video recording.",
+		"price": 1111,
+		"thumbnail": [],
+		"code": "CEOSR6",
+		"stock": 10,
+		"category": "Camaras",
+		"status": "true"
+	},
+	{
+		"id": 6,
+		"title": "Nintendo Switch",
+		"description": "The Nintendo Switch is a versatile gaming console that can be played on a TV or on-the-go.",
+		"price": 299.99,
+		"thumbnail": [],
+		"code": "NSW",
+		"stock": 30,
+		"category": "Gaming",
+		"status": "true"
+	},
+	{
+		"id": 7,
+		"title": "Soft Cooler",
+		"description": "Soft Cooler Eva Negro Coleman® Capacidad 45 Latas.",
+		"price": 30000,
+		"thumbnail": [],
+		"code": "COLEVA45",
+		"stock": 50,
+		"category": "Camping",
+		"status": "true"
+	},
+	{
+		"id": 8,
+		"title": "Monitor Gamer",
+		"description": "Pack Monitor Gamer Led 24 Fhd 165hz 1ms + Soundbar Gamer.",
+		"price": 135990,
+		"thumbnail": [],
+		"code": "GMRMOM24",
+		"stock": 70,
+		"category": "Gammer",
+		"status": "true"
+	},
+	{
+		"id": 9,
+		"title": "Zapatillas Daily 3.0",
+		"description": "Zapatillas Daily 3.0 H04578 adidas.",
+		"price": 37990,
+		"thumbnail": [],
+		"code": "ZAPADDS3",
+		"stock": 80,
+		"category": "Shoes",
+		"status": "true"
+	},
+	{
+		"title": "samsung s22",
+		"description": "5g ultimo celular",
+		"price": "95000",
+		"thumbnail": "[]",
+		"code": "smn425",
+		"stock": "12",
+		"category": "celular",
+		"status": "available",
+		"id": 10
+	}
+]

@@ -1,0 +1,19 @@
+{
+  "name": "bkend_desafio4_websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "type":"module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.5"
+  }
+}
